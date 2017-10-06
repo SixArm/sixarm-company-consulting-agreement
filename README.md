@@ -1,4 +1,4 @@
-# Consulting Contract
+# Consulting Agreement
 
 
 ## 1. Introduction
@@ -8,17 +8,21 @@
 
 This AGREEMENT is between:
 
-(person name):
+(name):
 
-(company name):
+(title):
+
+(company):
 
 hereafter referred to as "Client" 
 
 and:
 
-(person name):
+(name):
 
-(company name):
+(title):
+
+(company):
 
 hereafter referred to as "Consultant".
 
