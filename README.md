@@ -47,11 +47,14 @@ the laws of:
 
 (state):
 
-The validity, construction and performance of this Agreement shall
-be governed and construed in accordance, with the laws of
-applicable to contracts made and to be wholly performed within such state, without giving effect to any conflict of laws provisions thereof. 
+The validity, construction and performance of this Agreement shall be
+governed and construed in accordance, with the laws of applicable to
+contracts made and to be wholly performed within such state, without
+giving effect to any conflict of laws provisions thereof.
 
-The Federal and state courts located in the state shall have sole and exclusive jurisdiction over any disputes arising under the terms of this Agreement.
+The Federal and state courts located in the state shall have sole and
+exclusive jurisdiction over any disputes arising under the terms of
+this Agreement.
 
 This agreement includes the right of forum non conveniens. For
 example, to change the location if there is a mutually-preferable
@@ -73,7 +76,8 @@ considerations, the parties hereto agree as follows:
 
 ### Headings
 
-Headings used in this Agreement are for reference only and shall not be used or relied upon in the interpretation of this Agreement.
+Headings used in this Agreement are for reference only and shall not
+be used or relied upon in the interpretation of this Agreement.
 
 
 ## 2. Definitions
@@ -110,8 +114,9 @@ any plans, deliverables, etc.
 
 ### Fees and Payments Agreement (FPA)
 
-A separate Fees And Payments Agreement ("FPA") may describe any fees and
-payments, such as any estimates, retainers, rates, compensation, etc.
+A separate Fees And Payments Agreement ("FPA") may describe any fees
+and payments, such as any estimates, retainers, rates, compensation,
+etc.
 
 
 ### Confidentiality Agreement (CA)
@@ -328,14 +333,14 @@ attorney’s fees and expenses.
 
 ### Integrity
 
-If any provision of this Agreement, or restriction of this Agreement, is
-found by a court of competent jurisdiction to be unlawful, or unenforceable, or void, 
-such
-provision will be modified, rewritten or interpreted to include as
-much of its nature and scope as will render it enforceable. If it
-cannot be so modified, rewritten or interpreted to be enforceable in
-any respect, it will not be given effect, and the remainder of the
-Agreement will be enforced as if such provision was not included.
+If any provision of this Agreement, or restriction of this Agreement,
+is found by a court of competent jurisdiction to be unlawful, or
+unenforceable, or void, such provision will be modified, rewritten or
+interpreted to include as much of its nature and scope as will render
+it enforceable. If it cannot be so modified, rewritten or interpreted
+to be enforceable in any respect, it will not be given effect, and the
+remainder of the Agreement will be enforced as if such provision was
+not included.
 
 Any failure by either party to enforce the other party’s strict
 performance of any provision of this Agreement will not constitute a
@@ -396,12 +401,12 @@ seventh business day following such mailing.
 
 ### Transfer
 
-This Agreement is personal in nature, and neither party may
-directly or indirectly assign or transfer it by operation of law or
-otherwise without the prior written consent of the other party, which
-consent will not be unreasonably withheld. All obligations contained
-in this Agreement shall extend to and be binding upon the parties to
-this Agreement and their respective successors, assigns and designees.
+This Agreement is personal in nature, and neither party may directly
+or indirectly assign or transfer it by operation of law or otherwise
+without the prior written consent of the other party, which consent
+will not be unreasonably withheld. All obligations contained in this
+Agreement shall extend to and be binding upon the parties to this
+Agreement and their respective successors, assigns and designees.
 
 
 ### Termination
