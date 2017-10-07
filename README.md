@@ -245,48 +245,72 @@ worldwide license to use and modify the Work. This license does not
 include the right to redistribute, resell, or relicense the Work.
 
 
-### 6.4 Copyright and license for new generic works
+### 6.4 Copyright and license for Background Technology
+
+While performing the Work, Consultant may from time to time use
+Background Technology. For example, open source software toolkits,
+stock photos, graphic diagrams, template documents, packaged
+applications, commercial off the shelf software, etc.
+
+These works may variously be created by Consultant, subcontractors,
+third parties, etc.
+
+Consultant may from time to time modify these works, or create
+derivative works. For example, modifying open source code to an open
+source toolkits, editing stock photos, augmenting images in graphic
+diagrams, filling in template documents, extending packaged
+applications, creating scripts for commercial off the shelf software,
+etc.
+
+These modifications and/or derivative works may be used during the
+course of the Work and may be among the deliverables.
+
+Copyright for Background Technology remains the property of respective
+owners.
+
+License for Background Technology remains the property of respective
+owners.
+
+Background Technology may include many kinds of copyrights and
+licenses. For example, open software software toolkits may include the
+GNU Public License, graphic diagrams may include the Creative Commons
+License, tempate documents may include the Apache License, etc. In all
+cases it is Client's responsibility to vet all legal aspects to
+Client's satisfaction.
+
+Unless otherwise specified, Consultant's modifications and/or
+derivative works belong to the Background Technology respective
+owners. For example, Consultant may writes a software bug fix for
+Background Technology source code; the bug fix belongs to the
+Background Technology respective owner.
+
+
+### 6.5 Copyright and license for new Background Technology
 
 While performing the Work, Consultant may from time to time create new
-works, for example new technologies that are generic, or generally
-useful, or modular, or suitable for becoming libraries, or packages,
-or adjunct technology. For example, Consultant may write a string
-parser that is suitable for a small open source project, or a testing
-library that other projects can use, or a data calculation tool that
-can become a standalone utility.
+Background Technology. For example, new technologies that are generic,
+or generally useful, or suitable for becoming shared libraries, or
+open source code, or public packages.  For example, Consultant may
+write a text parser that is generic and generally useful, or a testing
+tool suitable for becoming a shared library usable by multiple
+projects, or a data calculation application that can be published as
+open source code, or system managemenet software that can become a
+public package.
 
-Copyright for new generic works is in Consultant's name unless
+This new Background Technology may be used during the course of the
+Work and may be among the deliverables.
+
+Copyright for new Background Techology is in Consultant's name unless
 otherwise specified.
 
-License for new generic works is in Consultant's name unless otherwise
-specified.
+License for new Background Techology is in Consultant's name unless
+otherwise specified.
 
 Upon completion of Work, and only upon receiving payment of balance
 due,and Consultant will grant Client a perpetual, irrovocable,
-worldwide license to use and modify the new generic works. This
-license does not include the right to redistribute, resell, or
-relicense the Work.
-
-
-### 6.5 Copyright and license for pre-existing works
-
-While performing the Work, Consultant may from time to time use
-pre-existing works, for example background technology, open source
-software toolkits, stock photos, graphic diagrams, template documents,
-etc. These works may variously be created by Consultant,
-subcontractors, third parties, etc.
-
-Consultant may from time to time modify these works, for example
-modifying open source code to an open source toolkits, augmenting
-images in graphic diagrams, editing template documents, creating
-software libraries, etc. These may be used during the course of the
-Work and may be among the deliverables.
-
-These works remain the property of the respective owners, and may
-include alternative copyrights and licenses, for example open software
-software toolkits that include the GNU Public License, graphic
-diagrams that include the Creative Commons License, tempate documents
-that include the Apache License, etc.
+worldwide license to use and modify the new Background
+Technology. This license does not include the right to redistribute,
+resell, or relicense the Work.
 
 
 ## 7. Limits
