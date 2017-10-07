@@ -1,10 +1,10 @@
-# Consulting Agreement
+# Consulting agreement
 
 
 ## 1. Introduction
 
 
-### 1.1 Parties
+### Parties
 
 This AGREEMENT is between:
 
@@ -31,14 +31,34 @@ and:
 hereafter referred to as "Consultant".
 
 
-### 1.2 Date
+### Date
 
 This agreement is dated and in effect as of:
 
 (date):
 
 
-### 1.3 Purpose
+### Location
+
+This Agreement shall be governed by and construed in accordance with
+the laws of:
+
+(city):
+
+(state):
+
+The validity, construction and performance of this Agreement shall
+be governed and construed in accordance, with the laws of
+applicable to contracts made and to be wholly performed within such state, without giving effect to any conflict of laws provisions thereof. 
+
+The Federal and state courts located in the state shall have sole and exclusive jurisdiction over any disputes arising under the terms of this Agreement.
+
+This agreement includes the right of forum non conveniens. For
+example, to change the location if there is a mutually-preferable
+location.
+
+
+### Purpose
 
 This agreement is with respect to business consulting for Client's
 technology, hereinafter referred to as the "Work."
@@ -51,17 +71,22 @@ mutual covenants hereinafter set forth and other valuable
 considerations, the parties hereto agree as follows:
 
 
+### Headings
+
+Headings used in this Agreement are for reference only and shall not be used or relied upon in the interpretation of this Agreement.
+
+
 ## 2. Definitions
 
 
-### 2.1 Technology
+### Technology
 
 Technology shall mean designs, methods, processes, formulas,
 algorithms, discoveries, inventions, technical information, drawings,
 modifications, enhancements, improvements, and other technologies.
 
 
-### 2.2 Background Technology
+### Background Technology
 
 Background Technology shall mean all Technology that: (i) was
 developed, conceived or owned by a Party prior to the Effective Date;
@@ -72,19 +97,24 @@ performance under this Agreement.
 ## 3. Documents
 
 
-### 3.1 Statement of Work (SOW)
+### Consulting Agreement
+
+This document.
+
+
+### Statement of Work (SOW)
 
 A separate Statement Of Work ("SOW") will describe the Work, such as
 any plans, deliverables, etc.
 
 
-### 3.2 Fees and Payments Agreement (FPA)
+### Fees and Payments Agreement (FPA)
 
-A separate Fees And Payments Agreement ("FPA") will describe fees and
-payments, such as any estimates, rates, retainers, etc.
+A separate Fees And Payments Agreement ("FPA") may describe any fees and
+payments, such as any estimates, retainers, rates, compensation, etc.
 
 
-### 3.3 Confidentiality Agreement (CA)
+### Confidentiality Agreement (CA)
 
 A separate Confidentiality Agreement ("CA") will describe any
 confidentiality agreement, such as for any trade secrets, private
@@ -96,7 +126,7 @@ non-disclosure agreement (NDA), confidential disclosure agreement
 (SA).
 
 
-### 3.4 Non-Compete Agreement (NCA)
+### Non-Compete Agreement (NCA)
 
 Consultant and Client have no non-compete agreement ("NCA").
 
@@ -145,68 +175,7 @@ Consultant is not responsible for any changes made by anyone other
 than consultant or consultant's authorized agent(s).
 
 
-### 4.6 Referenceability
-
-Client agrees to be generally available as a reference for Consultant,
-and that Consultant may display non-confidential results of Work in
-Consultant's portfolio.
-
-
-## 5. Resolutions
-
-
-### 5.1 Agreement to resolve claims
-
-We use the American Arbitration Association (AAA) standard procedures
-for mediation and non-binding arbitration.
-
-
-### 5.2 Mediation
-
-If any controversy or claim arises out of or relating to this
-contract, or the breach thereof, and cannot be settled through
-negotiation, then the parties agree to try in good faith to settle the
-dispute by mediation administered by the American Arbitration
-Association under its mediation procedures before resorting to
-arbitration, litigation or some other dispute resolution procedure.
-
-
-### 5.3 Non-Binding Arbitration
-
-If any controversy or claim arises out of or relating to this
-contract, or the breach thereof, which cannot be settled by mediation
-as described above, then the parties agree to submit to non-binding
-arbitration administered by the American Arbitration Association under
-its Non-Binding Arbitration Rules before the parties may initiate
-binding arbitration, litigation, or some other type of dispute
-resolution process.
-
-
-### 5.4 Venue
-
-This Agreement shall be governed by and construed in accordance with
-the laws of San Francisco, California.
-
-Any dispute will be mediated, arbitrated, or litigated in San
-Francisco, California.
-
-This agreement includes the right of forum non conveniens. For
-example, to change the location if there is a mutually-preferable
-location.
-
-
-### 5.5 Severability
-
-If any provision of this agreement shall be unlawful, void, or for any
-reason unenforceable, then that provision shall be deemed severable
-from this agreement and shall not affect the validity and
-enforceability of any remaining provisions.
-
- 
-## 6. Rights
-
-
-### 6.1 Reservation of rights
+## 4.6 Reservation of rights
 
 All rights not expressly granted hereunder are reserved to Consultant.
 
@@ -218,7 +187,7 @@ the Protection of Literary and Artistic Works, are reserved to
 Consultant.
 
 
-### 6.2 Permissions and releases
+### 4.7 Permissions and releases
 
 Client agrees to indemnify and hold harmless Consultant against any
 and all claims, costs, and expenses, including attorney's fees, due to
@@ -227,7 +196,14 @@ copyright permission or previous release was requested or uses which
 exceed the uses allowed pursuant to a permission or release.
 
 
-### 6.3 Copyright and license for the Work
+### 4.8 Referenceability
+
+Client agrees to be generally available as a reference for Consultant,
+and that Consultant may display non-confidential results of Work in
+Consultant's portfolio.
+
+
+### 4.9 Copyright and license for the Work
 
 Copyright for the Work is in Consultant's name unless otherwise
 specified.
@@ -245,7 +221,7 @@ worldwide license to use and modify the Work. This license does not
 include the right to redistribute, resell, or relicense the Work.
 
 
-### 6.4 Copyright and license for Background Technology
+### 4.10 Copyright and license for Background Technology
 
 While performing the Work, Consultant may from time to time use
 Background Technology. For example, open source software toolkits,
@@ -285,7 +261,7 @@ Background Technology source code; the bug fix belongs to the
 Background Technology respective owner.
 
 
-### 6.5 Copyright and license for new Background Technology
+### 4.11 Copyright and license for new Background Technology
 
 While performing the Work, Consultant may from time to time create new
 Background Technology. For example, new technologies that are generic,
@@ -313,19 +289,122 @@ Technology. This license does not include the right to redistribute,
 resell, or relicense the Work.
 
 
-## 7. Limits
+## 5. Resolution
 
 
-### 7.1 Sole agreement
+### Agreement to resolve claims
 
-The agreement contained herein constitutes the sole agreement between
-client and consultant regarding the Work.
+We use the American Arbitration Association (AAA) standard procedures
+for mediation and non-binding arbitration.
+
+
+### Mediation
+
+If any controversy or claim arises out of or relating to this
+contract, or the breach thereof, and cannot be settled through
+negotiation, then the parties agree to try in good faith to settle the
+dispute by mediation administered by the American Arbitration
+Association under its mediation procedures before resorting to
+arbitration, litigation or some other dispute resolution procedure.
+
+
+### Non-Binding Arbitration
+
+If any controversy or claim arises out of or relating to this
+contract, or the breach thereof, which cannot be settled by mediation
+as described above, then the parties agree to submit to non-binding
+arbitration administered by the American Arbitration Association under
+its Non-Binding Arbitration Rules before the parties may initiate
+binding arbitration, litigation, or some other type of dispute
+resolution process.
+
+
+## Recovery
+
+In the event of litigation relating to this Agreement, the
+prevailing party shall be entitled to recover its reasonable
+attorney’s fees and expenses.
+
+
+### Integrity
+
+If any provision of this Agreement, or restriction of this Agreement, is
+found by a court of competent jurisdiction to be unlawful, or unenforceable, or void, 
+such
+provision will be modified, rewritten or interpreted to include as
+much of its nature and scope as will render it enforceable. If it
+cannot be so modified, rewritten or interpreted to be enforceable in
+any respect, it will not be given effect, and the remainder of the
+Agreement will be enforced as if such provision was not included.
+
+Any failure by either party to enforce the other party’s strict
+performance of any provision of this Agreement will not constitute a
+waiver of its right to subsequently enforce such provision or any
+other provision of this Agreement.
+
+
+## 6. Limits
+
+
+### Sole agreement
+
+This Agreement constitutes the entire understanding between the
+parties and supersedes any and all prior or contemporaneous
+understandings and agreements, whether oral or written, between the
+parties, with respect to the subject matter hereof. 
+
+
+### Modification
+
+This Agreement can
+only be modified by a written amendment signed by the party against
+whom enforcement of such modification is sought.
+
+
+## Change order
 
 Any agreements not specified in this contract must be mutually
 authorized by a written change order.
 
 
-### 7.2 Termination
+### Warranties and guarantees
+
+There are no warranties or guarantees, either express or implied.
+
+NO WARRANTIES ARE MADE BY EITHER PARTY UNDER THIS AGREEMENT
+WHATSOEVER.
+
+NO GUARANTEES ARE MADE BY EITHER PARTY UNDER THIS AGREEMENT
+WHATSOEVER.
+
+
+### Communications
+
+Any notices or communications required or permitted to be given
+hereunder may be delivered by hand, deposited with a nationally
+recognized overnight carrier, electronic-mail, or mailed by certified
+mail, return receipt requested, postage prepaid, in each case, to the
+address of the other party first indicated above (or such other
+addressee as may be furnished by a party in accordance with this
+paragraph). All such notices or communications shall be deemed to have
+been given and received (a) in the case of personal delivery or
+electronic-mail, on the date of such delivery, (b) in the case of
+delivery by a nationally recognized overnight carrier, on the third
+business day following dispatch and (c) in the case of mailing, on the
+seventh business day following such mailing.
+
+
+### Transfer
+
+This Agreement is personal in nature, and neither party may
+directly or indirectly assign or transfer it by operation of law or
+otherwise without the prior written consent of the other party, which
+consent will not be unreasonably withheld. All obligations contained
+in this Agreement shall extend to and be binding upon the parties to
+this Agreement and their respective successors, assigns and designees.
+
+
+### Termination
 
 Either party may terminate this Agreement by giving 30 days written
 notice to the other of such termination. In the event that Work is
@@ -341,15 +420,7 @@ responsibility for all collection of legal fees necessitated by delay
 and/or default in payment.
 
 
-### 7.3 Warranties and guarantees
-
-There are no warranties or guarantees, either express or implied.
-
-The parties disclaim any warranties or guarantees imposed by law, such
-as merchantability, or fitness for particular purpose.
-
-
-### 7.4 Limitation of liability
+### Limitation of liability
 
 Consultant's total aggregate liability for damages under this
 agreement shall be limited to one hundred percent (100%) of the amount
@@ -361,7 +432,7 @@ hundred percent (100%) of the amount of fees received for services by
 consultant under this agreement for the project at issue.
 
 
-### 7.5 Laws affecting electronc commerce
+### Laws affecting electronc commerce
 
 From time to time governments enact laws and levy taxes and tariffs
 affecting Internet electronic commerce. Client agrees that Client is
@@ -371,7 +442,7 @@ subcontractors from any claim, suit, penalty, tax, or tariff arising
 from Client's exercise of Internet electronic commerce.
 
 
-### 7.6 Consequential damages
+### Consequential damages
 
 IN NO EVENT SHALL CONSULTANT, ITS PARENT CORPORATION, OR THEIR
 AFFILIATES, AGENTS, OR EMPLOYEES BE LIABLE FOR ANY INDIRECT,
@@ -385,7 +456,7 @@ CAUSED BY THE SOLE OR CONCURRENT OR ACTIVE OR PASSIVE NEGLIGENCE,
 STRICT LIABILITY OR OTHER LEGAL FAULT OF CONSULTANT.
 
 
-### 7.7 Indemnification
+### Indemnification
 
 CLIENT DOES RELEASE, INDEMNIFY, AND HOLD HARMLESS CONSULTANT, ITS
 PARENT CORPORATION AND THEIR AFFILIATES, AGENTS, AND EMPLOYEES FROM
@@ -400,10 +471,10 @@ STRICT LIABILITY OR OTHER LEGAL FAULT OF CONSULTANT. THIS PARAGRAPH
 SHALL SURVIVE EXPIRATION OR TERMINATION OF THIS AGREEMENT.
 
 
-## 8. Signatures
+## 7. Signatures
 
-The undersigned agrees to the terms of this agreement on behalf of his
-or her organization or business.
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement as
+of the date first above written.
 
 On behalf of Client:
 
