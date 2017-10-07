@@ -366,7 +366,7 @@ only be modified by a written amendment signed by the party against
 whom enforcement of such modification is sought.
 
 
-## Change order
+### Change order
 
 Any agreements not specified in this contract must be mutually
 authorized by a written change order.
