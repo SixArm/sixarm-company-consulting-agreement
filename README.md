@@ -180,7 +180,7 @@ Consultant is not responsible for any changes made by anyone other
 than consultant or consultant's authorized agent(s).
 
 
-## 4.6 Reservation of rights
+### 4.6 Reservation of rights
 
 All rights not expressly granted hereunder are reserved to Consultant.
 
