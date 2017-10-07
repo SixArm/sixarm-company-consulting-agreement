@@ -324,7 +324,7 @@ binding arbitration, litigation, or some other type of dispute
 resolution process.
 
 
-## Recovery
+### Recovery
 
 In the event of litigation relating to this Agreement, the
 prevailing party shall be entitled to recover its reasonable
