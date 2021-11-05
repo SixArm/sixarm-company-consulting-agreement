@@ -4,7 +4,7 @@
 ## 1. Introduction
 
 
-### Parties
+### 1.1. Parties
 
 This AGREEMENT is between:
 
@@ -31,14 +31,14 @@ and:
 hereafter referred to as "Consultant".
 
 
-### Date
+### 1.2. Date
 
 This agreement is dated and in effect as of:
 
 (date):
 
 
-### Location
+### 1.3. Location
 
 This Agreement shall be governed by and construed in accordance with
 the laws of:
@@ -48,7 +48,7 @@ the laws of:
 (state):
 
 The validity, construction and performance of this Agreement shall be
-governed and construed in accordance, with the laws of applicable to
+governed and construed in accordance with the laws applicable to
 contracts made and to be wholly performed within such state, without
 giving effect to any conflict of laws provisions thereof.
 
@@ -61,7 +61,7 @@ example, to change the location if there is a mutually-preferable
 location.
 
 
-### Purpose
+### 1.4. Purpose
 
 This agreement is with respect to business consulting for Client's
 technology, hereinafter referred to as the "Work."
@@ -74,7 +74,7 @@ mutual covenants hereinafter set forth and other valuable
 considerations, the parties hereto agree as follows:
 
 
-### Headings
+### 1.5. Headings
 
 Headings used in this Agreement are for reference only and shall not
 be used or relied upon in the interpretation of this Agreement.
@@ -83,14 +83,14 @@ be used or relied upon in the interpretation of this Agreement.
 ## 2. Definitions
 
 
-### Technology
+### 2.1. Technology
 
 Technology shall mean designs, methods, processes, formulas,
 algorithms, discoveries, inventions, technical information, drawings,
 modifications, enhancements, improvements, and other technologies.
 
 
-### Background Technology
+### 2.2. Background Technology
 
 Background Technology shall mean all Technology that: (i) was
 developed, conceived or owned by a Party prior to the Effective Date;
@@ -98,30 +98,51 @@ or (ii) is conceived or reduced to practice by a Party outside its
 performance under this Agreement.
 
 
+### 2.3. Independent Technology
+
+Independent Technology shall mean all Technology that: (i) is developed,
+conceived or reduced to practice by Consultant, at any time, including
+during this Agreement, and (ii) where the technology is generic enough
+that it may be useful for unrelated projects, practices, or purposes.
+
+Independent Technology may be used during the course of the Work, and also 
+may be among the deliverables.
+
+Example: Independent Technologies include technologies such as 
+open source code, or public packages, or demonstrations, or tutorials.  
+
+Example: Consultant may (i) write a text parser that is generic and 
+generally useful; or (ii) a testing tool that is suitable for becoming a 
+shared library usable by multiple projects, or (iii) a data calculation 
+application that can be published as open source code, or (iv) a system 
+utility that can become a public package, or (v) a demonstration of how 
+to use or implement an idea, or (vi) a tutorial that teaches a process.
+
+
 ## 3. Documents
 
 
-### Consulting Agreement
+### 3.1. Consulting Agreement
 
 This document.
 
 
-### Statement of Work (SOW)
+### 3.2. Statement of Work (SOW)
 
-A separate Statement Of Work ("SOW") will describe the Work, such as
-any plans, deliverables, etc.
+A separate Statement Of Work ("SOW") may describe the Work, such as
+any plans, deliverables, milestones, specifications, etc.
 
 
-### Fees and Payments Agreement (FPA)
+### 3.3. Fees and Payments Agreement (FPA)
 
 A separate Fees And Payments Agreement ("FPA") may describe any fees
 and payments, such as any estimates, retainers, rates, compensation,
 etc.
 
 
-### Confidentiality Agreement (CA)
+### 3.4. Confidentiality Agreement (CA)
 
-A separate Confidentiality Agreement ("CA") will describe any
+A separate Confidentiality Agreement ("CA") may describe any
 confidentiality agreement, such as for any trade secrets, private
 security, etc.
 
@@ -131,7 +152,7 @@ non-disclosure agreement (NDA), confidential disclosure agreement
 (SA).
 
 
-### Non-Compete Agreement (NCA)
+### 3.5. Non-Compete Agreement (NCA)
 
 Consultant and Client have no non-compete agreement ("NCA").
 
@@ -140,7 +161,7 @@ consulting. This comes from California Business and Professions Code
 Section 16600 which provides: "every contract by which anyone is
 restrained from engaging in a lawful profession, trade, or business of
 any kind is to that extent void." It doesn't allow non-compete
-agreements for employees, consultants, contractors, The enumerated
+agreements for employees, consultants, or contractors. The enumerated
 exceptions are for sale of a business, partnership dissolution, and
 disassociation of a partner.
 
@@ -151,7 +172,7 @@ disassociation of a partner.
 ### 4.1 Independence
 
 Client and Consultant are independent parties. There is no dependency
-such as employer, principal or partner of or joint venture.
+such as employer, principal or partner of, or joint venture.
 
 
 ### 4.2 Authority
@@ -222,88 +243,70 @@ copyright to Client.
 
 Upon completion of Work, and only upon receiving payment of balance
 due,and Consultant will grant Client a perpetual, irrovocable,
-worldwide license to use and modify the Work. This license does not
-include the right to redistribute, resell, or relicense the Work.
+worldwide license to use and modify the Work. 
+
+Unless otherwise specified, this license does not include the 
+right to redistribute, resell, or relicense the Work, or the
+Background Technology, or the Independent Technology.
 
 
-### 4.10 Copyright and license for Background Technology
+### 4.10 Copyright and license for Technology
 
-While performing the Work, Consultant may from time to time use
-Background Technology. For example, open source software toolkits,
-stock photos, graphic diagrams, template documents, packaged
-applications, commercial off the shelf software, etc.
+While performing the Work, Consultant may from time to time work
+with Background Technologies and/or Independent Technologies.
 
-These works may variously be created by Consultant, subcontractors,
-third parties, etc.
+Example: Consultant may use or create open source software,
+demonstrations and/or tutorials, stock photos and/or stock media,
+freely-available graphic diagrams, published template documents, 
+pre-packaged applications, commercial off the shelf software, etc.
 
 Consultant may from time to time modify these works, or create
-derivative works. For example, modifying open source code to an open
-source toolkits, editing stock photos, augmenting images in graphic
-diagrams, filling in template documents, extending packaged
-applications, creating scripts for commercial off the shelf software,
-etc.
+derivative works. 
+
+Example: Consultant may modify open source code, edit stock photos, 
+augment graphic diagrams, fill in template documents, extend pre-packaged
+applications, create plugins for commercial off the shelf software, 
+create demonstrations or tutorials, etc.
 
 These modifications and/or derivative works may be used during the
 course of the Work and may be among the deliverables.
 
 Copyright for Background Technology remains the property of respective
-owners.
+owners. Copyright for Independent Technology is the property of Consultant.
 
 License for Background Technology remains the property of respective
-owners.
+owners. License for Independent Technology is the property of Consultant.
 
-Background Technology may include many kinds of copyrights and
-licenses. For example, open software software toolkits may include the
-GNU Public License, graphic diagrams may include the Creative Commons
-License, tempate documents may include the Apache License, etc. In all
-cases it is Client's responsibility to vet all legal aspects to
-Client's satisfaction.
+Note: Background Technology and Independent Technology may include many 
+kinds of copyrights and licenses. 
 
-Unless otherwise specified, Consultant's modifications and/or
-derivative works belong to the Background Technology respective
-owners. For example, Consultant may writes a software bug fix for
-Background Technology source code; the bug fix belongs to the
-Background Technology respective owner.
+Example: open source software toolkits may include the GNU Public 
+License (GPL), graphic diagrams may include the Creative Commons (CC) 
+icense, template documents may include the Apache License, etc. 
 
+In all cases it is Client's responsibility to vet any and all legal 
+aspects, to Client's satisfaction. In all cases it is not Consultant's 
+responsibility to vet legal aspects.
 
-### 4.11 Copyright and license for new Background Technology
+Unless otherwise specified, Consultant's modifications of Background
+Technology, and/or derivatives of Background Technology, belong to the
+Background Technology respective owners. 
 
-While performing the Work, Consultant may from time to time create new
-Background Technology. For example, new technologies that are generic,
-or generally useful, or suitable for becoming shared libraries, or
-open source code, or public packages.  For example, Consultant may
-write a text parser that is generic and generally useful, or a testing
-tool suitable for becoming a shared library usable by multiple
-projects, or a data calculation application that can be published as
-open source code, or system managemenet software that can become a
-public package.
-
-This new Background Technology may be used during the course of the
-Work and may be among the deliverables.
-
-Copyright for new Background Techology is in Consultant's name unless
-otherwise specified.
-
-License for new Background Techology is in Consultant's name unless
-otherwise specified.
-
-Upon completion of Work, and only upon receiving payment of balance
-due,and Consultant will grant Client a perpetual, irrovocable,
-worldwide license to use and modify the new Background
-Technology. This license does not include the right to redistribute,
-resell, or relicense the Work.
+Example: Consultant may develop a software bug fix for Background 
+Technology source code, in which case the bug fix belongs 
+to the Background Technology respective owner, not the Client.
 
 
 ## 5. Resolution
 
 
-### Agreement to resolve claims
+### 5.1. Agreement to resolve claims
 
 We use the American Arbitration Association (AAA) standard procedures
 for mediation and non-binding arbitration.
 
 
-### Mediation
+### 5.2. Mediation
 
 If any controversy or claim arises out of or relating to this
 contract, or the breach thereof, and cannot be settled through
@@ -313,7 +316,7 @@ Association under its mediation procedures before resorting to
 arbitration, litigation or some other dispute resolution procedure.
 
 
-### Non-Binding Arbitration
+### 5.3. Non-Binding Arbitration
 
 If any controversy or claim arises out of or relating to this
 contract, or the breach thereof, which cannot be settled by mediation
@@ -324,14 +327,14 @@ binding arbitration, litigation, or some other type of dispute
 resolution process.
 
 
-### Recovery
+### 5.4. Recovery
 
 In the event of litigation relating to this Agreement, the
 prevailing party shall be entitled to recover its reasonable
 attorney’s fees and expenses.
 
 
-### Integrity
+### 5.5. Integrity
 
 If any provision of this Agreement, or restriction of this Agreement,
 is found by a court of competent jurisdiction to be unlawful, or
@@ -351,7 +354,7 @@ other provision of this Agreement.
 ## 6. Limits
 
 
-### Sole agreement
+### 6.1. Sole agreement
 
 This Agreement constitutes the entire understanding between the
 parties and supersedes any and all prior or contemporaneous
@@ -359,20 +362,19 @@ understandings and agreements, whether oral or written, between the
 parties, with respect to the subject matter hereof. 
 
 
-### Modification
+### 6.2. Modification
 
-This Agreement can
-only be modified by a written amendment signed by the party against
-whom enforcement of such modification is sought.
+This Agreement can only be modified by a written amendment signed by the 
+party against whom enforcement of such modification is sought.
 
 
-### Change order
+### 6.3. Change order
 
 Any agreements not specified in this contract must be mutually
 authorized by a written change order.
 
 
-### Warranties and guarantees
+### 6.4. Warranties and guarantees
 
 There are no warranties or guarantees, either express or implied.
 
@@ -383,7 +385,7 @@ NO GUARANTEES ARE MADE BY EITHER PARTY UNDER THIS AGREEMENT
 WHATSOEVER.
 
 
-### Communications
+### 6.5. Communications
 
 Any notices or communications required or permitted to be given
 hereunder may be delivered by hand, deposited with a nationally
@@ -399,7 +401,7 @@ business day following dispatch and (c) in the case of mailing, on the
 seventh business day following such mailing.
 
 
-### Transfer
+### 6.6. Transfer
 
 This Agreement is personal in nature, and neither party may directly
 or indirectly assign or transfer it by operation of law or otherwise
@@ -409,7 +411,7 @@ Agreement shall extend to and be binding upon the parties to this
 Agreement and their respective successors, assigns and designees.
 
 
-### Termination
+### 6.6. Termination
 
 Either party may terminate this Agreement by giving 30 days written
 notice to the other of such termination. In the event that Work is
@@ -425,7 +427,7 @@ responsibility for all collection of legal fees necessitated by delay
 and/or default in payment.
 
 
-### Limitation of liability
+### 6.7. Limitation of liability
 
 Consultant's total aggregate liability for damages under this
 agreement shall be limited to one hundred percent (100%) of the amount
@@ -437,7 +439,7 @@ hundred percent (100%) of the amount of fees received for services by
 consultant under this agreement for the project at issue.
 
 
-### Laws affecting electronc commerce
+### 6.7. Laws affecting electronic commerce
 
 From time to time governments enact laws and levy taxes and tariffs
 affecting Internet electronic commerce. Client agrees that Client is
@@ -447,7 +449,7 @@ subcontractors from any claim, suit, penalty, tax, or tariff arising
 from Client's exercise of Internet electronic commerce.
 
 
-### Consequential damages
+### 6.8. Consequential damages
 
 IN NO EVENT SHALL CONSULTANT, ITS PARENT CORPORATION, OR THEIR
 AFFILIATES, AGENTS, OR EMPLOYEES BE LIABLE FOR ANY INDIRECT,
@@ -461,7 +463,7 @@ CAUSED BY THE SOLE OR CONCURRENT OR ACTIVE OR PASSIVE NEGLIGENCE,
 STRICT LIABILITY OR OTHER LEGAL FAULT OF CONSULTANT.
 
 
-### Indemnification
+### 6.9. Indemnification
 
 CLIENT DOES RELEASE, INDEMNIFY, AND HOLD HARMLESS CONSULTANT, ITS
 PARENT CORPORATION AND THEIR AFFILIATES, AGENTS, AND EMPLOYEES FROM
