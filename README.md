@@ -405,7 +405,7 @@ seventh business day following such mailing.
 
 This Agreement is personal in nature, and neither party may directly
 or indirectly assign or transfer it by operation of law or otherwise
-without the prior written consent of the other party, which consent
+without the prior written consent of the other party, whose consent
 will not be unreasonably withheld. All obligations contained in this
 Agreement shall extend to and be binding upon the parties to this
 Agreement and their respective successors, assigns and designees.
