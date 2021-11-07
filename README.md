@@ -205,6 +205,15 @@ completion.
 Consultant is not responsible for any changes made by anyone other
 than consultant or consultant's authorized agent(s).
 
+Note about authorized agent(s): For example, Client and Consultant may want to
+work with a third-party who is fully qualified, such as an expert or vendor. The
+Client and Consultant may choose to authorize that person to make changes such
+that the Consultant continues to be responsible for the changes. An area where
+this kind of effect can come up in practice is with high performance systems
+such as high-security servers or high-optimization databases, when Client and
+Consultant want to get help from an expert or vendor, and want the vendor's
+changes to become part of the Work.
+
 
 ### 4.6 Reservation of rights
 
