@@ -177,9 +177,14 @@ such as employer, principal or partner of, or joint venture.
 
 ### 4.2 Authority
 
-Client and Consultant have no authority to assume or create any
-obligation or liability, either express or implied, on behalf of the
-other.
+Client and Consultant have no authority to make any promise, guarantee, 
+warranty, or representation, or to assume, create, or incur any liability
+or other obligation of any kind, either express or implied, against or in
+the name of, or on behalf of, the other.
+
+Note: For example suppose a vendor wants a legal confidentiality agreement,
+and wants it to include the Client and Consultant. Each party must sign;
+one party can't sign for the other.
 
 
 ### 4.3 Access
