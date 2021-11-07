@@ -156,10 +156,10 @@ non-disclosure agreement (NDA), confidential disclosure agreement
 
 Consultant and Client have no non-compete agreement ("NCA").
 
-Note: California law voids non-compete agreements for typical
-consulting. This comes from California Business and Professions Code
-Section 16600 which provides: "every contract by which anyone is
-restrained from engaging in a lawful profession, trade, or business of
+Note: California law voids non-compete agreements for consulting. 
+This comes from California Business and Professions Code Section 
+16600 which provides: "every contract by which anyone is restrained 
+from engaging in a lawful profession, trade, or business of
 any kind is to that extent void." It doesn't allow non-compete
 agreements for employees, consultants, or contractors. The enumerated
 exceptions are for sale of a business, partnership dissolution, and
