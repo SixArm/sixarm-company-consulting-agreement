@@ -4,6 +4,7 @@
 ## 1. Introduction
 
 
+
 ### 1.1. Parties
 
 This AGREEMENT is between:
@@ -30,6 +31,8 @@ and:
 
 hereafter referred to as "Consultant".
 
+Hereafter referred to as a ‘Party’ individually or the ‘Parties’ collectively.
+
 
 ### 1.2. Date
 
@@ -38,7 +41,20 @@ This agreement is dated and in effect as of:
 (date):
 
 
-### 1.3. Location
+### 1.3. Purpose
+
+This agreement is with respect to business consulting for Client's
+technology, hereinafter referred to as the "Work."
+
+Whereas, Consultant is a business consultant technology developer;
+Whereas, Client wishes Consultant to create certain Work described
+more fully herein; and Whereas, Consultant wishes to create such Work;
+Now, therefore, in consideration of the foregoing premises and the
+mutual covenants hereinafter set forth and other valuable
+considerations, the parties hereto agree as follows.
+
+
+### 1.4. Place
 
 This Agreement shall be governed by and construed in accordance with
 the laws of:
@@ -46,6 +62,8 @@ the laws of:
 (city):
 
 (state):
+
+(country):
 
 The validity, construction and performance of this Agreement shall be
 governed and construed in accordance with the laws applicable to
@@ -61,20 +79,17 @@ example, to change the location if there is a mutually-preferable
 location.
 
 
-### 1.4. Purpose
+### 1.5 Priority of documentation
 
-This agreement is with respect to business consulting for Client's
-technology, hereinafter referred to as the "Work."
+If there is any ambiguity, inconsistency or conflict between the terms and conditions contained in any of the documents forming a part of this Agreement, then the Agreement shall be construed in the following order of priority, i.e. 1 takes precedence over 2 and so on:
 
-Whereas, Consultant is a business consultant technology developer;
-Whereas, Client wishes Consultant to create certain Work described
-more fully herein; and Whereas, Consultant wishes to create such Work;
-Now, therefore, in consideration of the foregoing premises and the
-mutual covenants hereinafter set forth and other valuable
-considerations, the parties hereto agree as follows:
+1. these terms and conditions
+2. the provisions of any Statement of Work a.k.a. Work Order
+3. the provisions of any schedules.
+4. any other documents incorporated or referenced herein.
 
 
-### 1.5. Headings
+### 1.6. Headings
 
 Headings used in this Agreement are for reference only and shall not
 be used or relied upon in the interpretation of this Agreement.
