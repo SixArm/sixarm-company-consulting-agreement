@@ -1,6 +1,6 @@
 # Consulting agreement
 
-This is a Consulting Agreement (“Agreement”) for a Consultant and Consultee to read, review, edit as desired, then sign.
+This is a Consulting Agreement (“Agreement”) for a Consultant and Consultee to read, review, edit as desired, then sign. Feedback is welcome. Improvements are welcome.
 
 Note: This kind of agreement may also be known as a General Consulting Agreement (GSA), Professional Services Agreement (PSA), or Master Services Agreement (MSA).
 
