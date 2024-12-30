@@ -1,6 +1,6 @@
 # Consulting agreement
 
-This is a Consulting Agreement (“Agreement”) for professional services.
+This is a Consulting Agreement (“Agreement”) for a Consultant and Consultee to read, review, edit as desired, then sign.
 
 Note: This kind of agreement may also be known as a General Consulting Agreement (GSA), Professional Services Agreement (PSA), or Master Services Agreement (MSA).
 
@@ -172,17 +172,20 @@ The country courts and state courts located in the place shall have sole and
 exclusive jurisdiction over any disputes arising under the terms of this
 Agreement.
 
-This agreement includes the right of forum non conveniens. 
 
-Note: Forum non conveniens is a mostly-common law legal doctrine through which a
-court acknowledges that another forum or court where the case might have been
-brought is a more appropriate venue for a legal case, and transfers the case to
-such a forum. -- Wikipedia.
+### 1.8. Forum non conveniens
+
+This Agreement includes the right of forum non conveniens. 
+
+Note: Forum non conveniens is a legal doctrine through which a court
+acknowledges that another forum or court where the case might have been brought
+is a more appropriate venue for a legal case, and transfers the case to such a
+forum.
 
 Reference: https://wikipedia.org/wiki/Forum_non_conveniens
 
 
-### 1.8. Priority
+### 1.9. Priority
 
 If there is any ambiguity, inconsistency or conflict between the terms and
 conditions contained in any of the documents forming a part of this Agreement,
@@ -198,7 +201,7 @@ takes precedence over 2 and so on:
 4. Any other documents incorporated or referenced herein.
 
 
-### 1.9. Work Order
+### 1.10. Work Order
 
 All work performed by Consultant shall be documented in a Work Order ("WO") signed
 by authorized representatives of both parties. 
@@ -217,27 +220,24 @@ shall furnish all labor, materials, equipment, supervision and insurance need to
 perform the work.
 
 
-### 1.10. References
-
-Areas marked "Reference:", "Note:", or "Example:", used in this Agreement are
-for reference only and shall not be used or relied upon in the interpretation of
-this Agreement.
-
-Headings used in this Agreement are for reference only and shall not be used or
-relied upon in the interpretation of this Agreement.
-
-
 ## 2. Definitions
 
 
-### 2.1. Technology
+### 2.1. Reference
+
+The expressions "Reference:", "Note:", "Example:", and the headings in this
+Agreement, are for reference purposes only, and shall not be used or relied upon
+in the interpretation of this Agreement.
+
+
+### 2.2. Technology
 
 The expression "Technology" shall mean designs, methods, processes, formulas,
 algorithms, discoveries, inventions, technical information, drawings,
 modifications, enhancements, improvements, and other technologies.
 
 
-### 2.2. Background Technology
+### 2.3. Background Technology
 
 The expression "Background Technology" shall mean all Technology that: (i) was
 developed, conceived or owned by a Party prior to the Effective Date;
@@ -245,7 +245,7 @@ or (ii) is conceived or reduced to practice by a Party outside its
 performance under this Agreement.
 
 
-### 2.3. Independent Technology
+### 2.4. Independent Technology
 
 The expression "Independent Technology" shall mean all Technology that: (i) is
 developed, conceived or reduced to practice by Consultant, at any time,
@@ -266,20 +266,24 @@ utility that can become a public package, or (v) a demonstration of how
 to use or implement an idea, or (vi) a tutorial that teaches a process.
 
 
-### 2.4. Include Without Limitation
+### 2.5. Include Without Limitation
 
 The expressions "include", "included", "includes", "including" shall mean without limitation.
 
+Example: The phrase "A shall include B" means "A shall include without limitation B".
 
-### 2.5. Names and Pronouns
+
+### 2.6. Names and Pronouns
 
 The expressions of any names and pronouns shall include all gendered forms, such
-as masculine forms, feminine forms, and gender-neutral forms. Example: the word "he" includes
-"she".
+as masculine forms, feminine forms, and gender-neutral forms. 
+
+Example: the word "he" includes "she".
 
 The expressions of any names and pronouns shall include all numbered forms, such
-as singular forms, plural forms, and number-neutral forms. Example: the word
-"he" includes "they".
+as singular forms, plural forms, and number-neutral forms. 
+
+Example: the word "he" includes "they".
 
 
 ## 3. Documents
@@ -618,10 +622,10 @@ Consultant's total aggregate liability for damages under this agreement shall be
 limited to one hundred percent (100%) of the amount of fees received for
 services by consultant under this agreement.
 
-In the case of per project pricing, Consultant's total aggregate liability for
-damages under this agreement shall be limited to one hundred percent (100%) of
-the amount of fees received for services by consultant under this agreement for
-the project at issue.
+In the case of per project pricing, or per work order pricing, Consultant's
+total aggregate liability for damages under this agreement shall be limited to
+one hundred percent (100%) of the amount of fees received for services by
+consultant under this agreement for the project at issue.
 
 
 ### 6.7. Laws affecting electronic commerce
@@ -634,30 +638,30 @@ penalty, tax, or tariff arising from Consultee's exercise of Internet electronic
 commerce.
 
 
-### 6.8. Consequential damages
+### 6.8. Mutual Protection
 
-IN NO EVENT SHALL Consultant, ITS PARENT CORPORATION, OR THEIR AFFILIATES, AGENTS,
-OR EMPLOYEES BE LIABLE FOR ANY INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL,
-EXEMPLARY OR PUNITIVE LOSS OR DAMAGE, INCLUDING, BUT NOT LIMITED TO, LOST
-PROFITS, BUSINESS INTERRUPTION LOSSES, OR CUSTOMER CLAIMS, WHETHER ARISING UNDER
-CONTRACT, WARRANTY, EXPRESS OR IMPLIED, TORT, INCLUDING NEGLIGENCE, OR STRICT
-LIABILITY, ARISING AT ANY TIME FROM ANY CAUSE WHATSOEVER IN CONNECTION WITH THIS
-AGREEMENT OR PERFORMANCE HEREUNDER, EVEN IF CAUSED BY THE SOLE OR CONCURRENT OR
-ACTIVE OR PASSIVE NEGLIGENCE, STRICT LIABILITY OR OTHER LEGAL FAULT OF
-Consultant.
+IN NO EVENT SHALL ANY PARTY, THEIR PARENT CORPORATIONS AND THEIR AFFILIATES,
+AGENTS, OR EMPLOYEES BE LIABLE FOR ANY INDIRECT, INCIDENTAL, CONSEQUENTIAL,
+SPECIAL, EXEMPLARY OR PUNITIVE LOSS OR DAMAGE, INCLUDING, BUT NOT LIMITED TO,
+LOST PROFITS, BUSINESS INTERRUPTION LOSSES, OR CUSTOMER CLAIMS, WHETHER ARISING
+UNDER CONTRACT, WARRANTY, EXPRESS OR IMPLIED, TORT, INCLUDING NEGLIGENCE, OR
+STRICT LIABILITY, ARISING AT ANY TIME FROM ANY CAUSE WHATSOEVER IN CONNECTION
+WITH THIS AGREEMENT OR PERFORMANCE HEREUNDER, EVEN IF CAUSED BY THE SOLE OR
+CONCURRENT OR ACTIVE OR PASSIVE NEGLIGENCE, STRICT LIABILITY, OR OTHER LEGAL
+FAULT OF ANY PARTY.
 
 
-### 6.9. Indemnification
+### 6.9. Mutual Release
 
-Consultee DOES RELEASE, INDEMNIFY, AND HOLD HARMLESS Consultant, ITS PARENT
-CORPORATION AND THEIR AFFILIATES, AGENTS, AND EMPLOYEES FROM AND AGAINST ANY AND
-ALL LIABILITIES, CLAIMS, LOSSES, DAMAGES, COSTS, FEES AND EXPENSES, AS WELL AS
-COSTS OF DEFENSE, SETTLEMENT, AND REASONABLE ATTORNEY'S FEES, ARISING AT ANY
-TIME IN CONNECTION WITH i) CLAIMS BY Consultee THAT EXCEED THE LIMITATION OF
-LIABILITY SET OUT IN SECTION 10 ABOVE, AND ii) ANY CLAIMS BY THIRD PARTIES
-ARISING IN CONNECTION WITH ANY WORK PRODUCT OR SERVICES PROVIDED HEREUNDER, EVEN
-IF CAUSED BY THE SOLE OR CONCURRENT OR ACTIVE OR PASSIVE NEGLIGENCE, STRICT
-LIABILITY OR OTHER LEGAL FAULT OF Consultant. THIS PARAGRAPH SHALL SURVIVE
+ALL PARTIES DO RELEASE, INDEMNIFY, AND HOLD HARMLESS ALL PARTIES, THEIR PARENT
+CORPORATIONS AND THEIR AFFILIATES, AGENTS, AND EMPLOYEES, FROM AND AGAINST ANY
+AND ALL LIABILITIES, CLAIMS, LOSSES, DAMAGES, COSTS, FEES AND EXPENSES, AS WELL
+AS COSTS OF DEFENSE, SETTLEMENT, AND REASONABLE ATTORNEY'S FEES, ARISING AT ANY
+TIME IN CONNECTION WITH i) CLAIMS BY ANY PARTY THAT EXCEEDS THE LIMITATION OF
+LIABILITY SET OUT ABOVE, AND ii) ANY CLAIMS BY THIRD PARTIES ARISING IN
+CONNECTION WITH ANY WORK PRODUCT OR WORK SERVICES PROVIDED HEREUNDER, EVEN IF
+CAUSED BY THE SOLE OR CONCURRENT OR ACTIVE OR PASSIVE NEGLIGENCE, STRICT
+LIABILITY OR OTHER LEGAL FAULT OF ANY PARTY. THIS PARAGRAPH SHALL SURVIVE
 EXPIRATION OR TERMINATION OF THIS AGREEMENT.
 
 
@@ -666,18 +670,54 @@ EXPIRATION OR TERMINATION OF THIS AGREEMENT.
 IN WITNESS WHEREOF, the Parties hereto have executed this Agreement as of the
 date first above written.
 
-On behalf of Consultee:
 
-  * Sign name:
-
-  * Print name:
-
-  * Date:
+### 7.1. Consultant
 
 On behalf of Consultant:
 
-  * Sign name:
+Print person's name: 
 
-  * Print name:
+```
+_____________________________________________________________________
+```
 
-  * Date:
+
+Sign person's name: 
+
+```
+_____________________________________________________________________
+```
+
+
+Date:
+
+```
+_____________________________________________________________________
+```
+
+
+### 7.2. Consultee
+
+On behalf of Consultee:
+
+Print person's name: 
+
+```
+_____________________________________________________________________
+```
+
+
+Sign person's name: 
+
+```
+_____________________________________________________________________
+```
+
+
+Date:
+
+```
+_____________________________________________________________________
+```
+
+
