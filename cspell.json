@@ -1,11 +1,14 @@
 {
     "version": "0.2",
     "ignorePaths": [],
+    "allowCompoundWords": true,
     "dictionaryDefinitions": [],
     "dictionaries": [],
     "words": [
+        "Berne",
         "Consultee",
-        "Referenceability"
+        "conveniens",
+        "referenceability"
     ],
     "ignoreWords": [],
     "import": []

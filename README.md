@@ -479,8 +479,8 @@ License for Independent Technology is the property of Consultant.
 Note: Background Technology and Independent Technology may include many kinds of
 copyrights and licenses. 
 
-Example: open source software toolkits may include the GNU Public License (GPL),
-graphic diagrams may include the Creative Commons (CC) icense, template
+Example: open source software tool-kits may include the GNU Public License (GPL),
+graphic diagrams may include the Creative Commons (CC) license, template
 documents may include the Apache License, etc. 
 
 In all cases it is Consultee's responsibility to vet any and all legal aspects, to
