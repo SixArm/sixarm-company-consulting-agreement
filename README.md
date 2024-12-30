@@ -337,7 +337,7 @@ business, partnership dissolution, and disassociation of a partner.
 ## 4. Content
 
 
-### 4.1 Independence
+### 4.1. Independence
 
 The Consultee and Consultant are independent parties. 
 
@@ -345,7 +345,7 @@ There is no dependency, such as employer, principal of, partner of, or joint
 venture.
 
 
-### 4.2 Independent Contractor
+### 4.2. Independent Contractor
 
 The Consultant is an independent contractor, and not an employee of Consultee.
 
@@ -365,7 +365,7 @@ employee life insurance, employee disability insurance, employee retirement
 plans, or employee welfare plans.
 
 
-### 4.2 Authority
+### 4.2. Authority
 
 The Consultee and Consultant have no authority to make any promise, guarantee,
 warranty, or representation, or to assume, create, or incur any liability or
@@ -377,19 +377,19 @@ wants it to include the Consultee and Consultant. Each party must sign; one part
 cannot sign for the other party.
 
 
-### 4.3 Access
+### 4.3. Access
 
 Consultee authorizes Consultant to access the Work's related aspects, such as any
 content, technology, etc.
 
 
-### 4.4 Assignments
+### 4.4. Assignments
 
 Unless otherwise specified in a Work Order, Consultant reserves the right to
 assign subcontractors to the Work to ensure quality and on-time completion.
 
 
-### 4.5 Non-provider changes
+### 4.5. Non-provider changes
 
 Consultant is not responsible for any changes made by anyone other than consultant
 or consultant's authorized agent(s).
@@ -404,7 +404,7 @@ want to get help from an expert or vendor, and want the resulting changes to
 become part of the Work.
 
 
-### 4.6 Reservation of rights
+### 4.6. Reservation of rights
 
 All rights not expressly granted hereunder are reserved to Consultant.
 
@@ -415,7 +415,7 @@ Moral rights, as described in the international Berne Convention for the
 Protection of Literary and Artistic Works, are reserved to Consultant.
 
 
-### 4.7 Permissions and releases
+### 4.7. Permissions and releases
 
 Consultee agrees to indemnify and hold harmless Consultant against any and all
 claims, costs, and expenses, including attorney's fees, due to materials
@@ -424,13 +424,13 @@ or previous release was requested or uses which exceed the uses allowed pursuant
 to a permission or release.
 
 
-### 4.8 Referenceability
+### 4.8. Referenceability
 
 Consultee agrees to be generally available as a reference for Consultant, and that
 Consultant may display non-confidential results of Work in Consultant's portfolio.
 
 
-### 4.9 Copyright and license for the Work
+### 4.9. Copyright and license for the Work
 
 Copyright for the Work is in Consultant's name unless otherwise specified.
 
@@ -440,8 +440,8 @@ Upon completion of Work, and only upon receiving payment of balance due,
 Consultant will sign a Release of Copyright that releases the copyright to Consultee.
 
 Upon completion of Work, and only upon receiving payment of balance due,and
-Consultant will grant Consultee a perpetual, irrovocable, worldwide license to use
-and modify the Work. 
+Consultant will grant Consultee a perpetual, irrevocable, worldwide license to
+use and modify the Work. 
 
 Unless otherwise specified, this license does not include the right to
 redistribute, resell, or relicense the Work, or the Background Technology, or
@@ -501,8 +501,9 @@ respective owner, not the Consultee.
 
 ### 5.1. Agreement to resolve claims
 
-We use the American Arbitration Association (AAA) standard procedures for
-mediation and non-binding arbitration.
+If any controversy or claim arises out of or relating to this contract, we will
+use the American Arbitration Association (AAA) standard procedures for mediation
+and non-binding arbitration.
 
 
 ### 5.2. Mediation
