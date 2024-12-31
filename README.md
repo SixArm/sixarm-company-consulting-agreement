@@ -2,7 +2,7 @@
 
 This is a Consulting Agreement (“Agreement”) for a Consultant and Consultee to read, review, edit as desired, then choose to sign. 
 
-This kind of agreement may also be known as a General Consulting Agreement (GSA), Professional Services Agreement (PSA), or Master Services Agreement (MSA).
+This kind of agreement may also be known as a General Consulting Agreement ("GSA"), Professional Services Agreement ("PSA"), or Master Services Agreement ("MSA").
 
 Note: The purpose of this document is to have a free open source template that is easy to understand, easy to customize, and fair and balanced for everyone involved. Feedback is welcome. Improvements are welcome.
 
@@ -274,14 +274,38 @@ utility that can become a public package, or (v) a demonstration of how
 to use or implement an idea, or (vi) a tutorial that teaches a process.
 
 
-### 2.5. Include Without Limitation
+### 2.5. Ethics Wall
+
+The expression "Ethics Wall" shall mean an information barrier protocol within
+an organization designed to prevent exchange of information or communication
+that could lead to conflicts of interest. 
+
+Reference: https://wikipedia.org/wiki/ethics_wall
+
+Example: Consultant and Consultee may want to negotiate an ethics wall that
+separates the Consultant-Consultee agreements, projects, and information from
+the Consultant's involvement with any other organizations, projects, and
+confidential information. We suggest describing any ethics walls in a separate Confidentiality Agreement ("CA").
+
+Note: "Screen", or the verb "to screen", is the preferred term of the American
+Bar Association Model Rules of Professional Conduct. The ABA Model Rules define
+screening as "the isolation of a lawyer from any participation in a matter
+through the timely imposition of procedures within a firm that are reasonably
+adequate under the circumstances to protect information that the isolated lawyer
+is obligated to protect under these Rules or other law", and suitable "screening
+procedures" have been approved where paralegals have moved from one law firm to
+another and have worked on cases for their former employer which may conflict
+with the interests of their current employer and the clients they represent.
+
+
+### 2.6. Include Without Limitation
 
 The expressions "include", "included", "includes", "including" shall mean without limitation.
 
 Example: The phrase "A shall include B" means "A shall include without limitation B".
 
 
-### 2.6. Gendered Names and Pronouns
+### 2.7. Gendered Names and Pronouns
 
 The expressions of any names and pronouns shall include all gendered forms, such
 as masculine forms, feminine forms, and gender-neutral forms. 
@@ -289,7 +313,7 @@ as masculine forms, feminine forms, and gender-neutral forms.
 Example: the word "he" includes "she".
 
 
-### 2.7. Numbered Names and Pronouns
+### 2.8. Numbered Names and Pronouns
 
 The expressions of any names and pronouns shall include all numbered forms, such
 as singular forms, plural forms, and number-neutral forms. 
@@ -335,8 +359,8 @@ A separate Confidentiality Agreement ("CA") may describe any confidentiality
 areas, such as for trade secrets, private security, non-public documents, etc.
 
 Note: In general, a confidentiality agreement may be also known as a
-non-disclosure agreement (NDA), confidential disclosure agreement (CDA),
-proprietary information agreement (PIA) or secrecy agreement (SA).
+non-disclosure agreement ("NDA"), confidential disclosure agreement ("CDA"),
+proprietary information agreement ("PIA") or secrecy agreement ("SA").
 
 
 ### 3.6. Non-Compete Agreement
@@ -444,11 +468,15 @@ to a permission or release.
 
 ### 4.8. Referenceability
 
-Consultee agrees to be generally available as a reference for Consultant, and that
-Consultant may display non-confidential results of Work in Consultant's portfolio.
+Consultee agrees to be generally available as a reference for Consultant.
 
 
-### 4.9. Copyright and license for the Work
+### 4.9. Displayability
+
+Consultee agrees Consultant may display non-confidential results of Work in Consultant's portfolio.
+
+
+### 4.10. Copyright and license for the Work
 
 Copyright for the Work is in Consultant's name unless otherwise specified.
 
@@ -466,7 +494,7 @@ redistribute, resell, or relicense the Work, or the Background Technology, or
 the Independent Technology.
 
 
-### 4.10 Copyright and license for Technology
+### 4.11 Copyright and license for Technology
 
 While performing the Work, Consultant may from time to time work with Background
 Technologies and/or Independent Technologies.
@@ -497,8 +525,8 @@ License for Independent Technology is the property of Consultant.
 Note: Background Technology and Independent Technology may include many kinds of
 copyrights and licenses. 
 
-Example: open source software tool-kits may include the GNU Public License (GPL),
-graphic diagrams may include the Creative Commons (CC) license, template
+Example: open source software tool-kits may include the GNU Public License ("GPL"),
+graphic diagrams may include the Creative Commons ("CC") license, template
 documents may include the Apache License, etc. 
 
 In all cases it is Consultee's responsibility to vet any and all legal aspects, to
@@ -534,7 +562,7 @@ arbitration, yet in our experience the binding causes more problems than it solv
 ### 5.2. Non-Binding Mediation
 
 If non-binding mediation is needed, then the Parties will use the American
-Arbitration Association (AAA) standard procedures for Non-Binding Mediation
+Arbitration Association ("AAA") standard procedures for Non-Binding Mediation
 Rules.
 
 The Parties agree to do this before the Parties may initiate non-binding
