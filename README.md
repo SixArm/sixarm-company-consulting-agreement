@@ -1,8 +1,10 @@
 # Consulting agreement
 
-This is a Consulting Agreement (“Agreement”) for a Consultant and Consultee to read, review, edit as desired, then sign. Feedback is welcome. Improvements are welcome.
+This is a Consulting Agreement (“Agreement”) for a Consultant and Consultee to read, review, edit as desired, then choose to sign. 
 
-Note: This kind of agreement may also be known as a General Consulting Agreement (GSA), Professional Services Agreement (PSA), or Master Services Agreement (MSA).
+This kind of agreement may also be known as a General Consulting Agreement (GSA), Professional Services Agreement (PSA), or Master Services Agreement (MSA).
+
+Note: The purpose of this document is to have a free open source template that is easy to understand, easy to customize, and fair and balanced for everyone involved. Feedback is welcome. Improvements are welcome.
 
 
 ## 1. Introduction
@@ -51,7 +53,7 @@ Organization's postal address, if any:
 _____________________________________________________________________
 ```
 
-Organization's website address, if any: 
+Organization's email address, if any: 
 
 ```
 _____________________________________________________________________
@@ -98,7 +100,7 @@ Organization's postal address, if any:
 _____________________________________________________________________
 ```
 
-Organization's website address, if any: 
+Organization's email address, if any: 
 
 ```
 _____________________________________________________________________
@@ -175,7 +177,7 @@ Agreement.
 
 ### 1.8. Forum non conveniens
 
-This Agreement includes the right of forum non conveniens. 
+This Agreement includes the right of forum non conveniens.
 
 Note: Forum non conveniens is a legal doctrine through which a court
 acknowledges that another forum or court where the case might have been brought
@@ -183,6 +185,12 @@ is a more appropriate venue for a legal case, and transfers the case to such a
 forum.
 
 Reference: https://wikipedia.org/wiki/Forum_non_conveniens
+
+Example: Suppose the Consultant and Consultee are both Delaware companies, and
+both have headquarters in San Francisco. If something goes wrong and must go to
+court, both parties may prefer to transfer the legal case from Delaware to San
+Francisco because it's a more-convenient location and has more-specific legal
+experts. 
 
 
 ### 1.9. Priority
@@ -273,12 +281,15 @@ The expressions "include", "included", "includes", "including" shall mean withou
 Example: The phrase "A shall include B" means "A shall include without limitation B".
 
 
-### 2.6. Names and Pronouns
+### 2.6. Gendered Names and Pronouns
 
 The expressions of any names and pronouns shall include all gendered forms, such
 as masculine forms, feminine forms, and gender-neutral forms. 
 
 Example: the word "he" includes "she".
+
+
+### 2.7. Numbered Names and Pronouns
 
 The expressions of any names and pronouns shall include all numbered forms, such
 as singular forms, plural forms, and number-neutral forms. 
@@ -299,10 +310,17 @@ This document.
 A separate Statement of Work ("SOW") may describe the Work, such as any plans,
 deliverables, milestones, specifications, work breakdown structures, etc.
 
+Note: We suggest using a Statement of Work for longer-range planning and for
+larger-scope projects and programmes.
+
+
 ### 3.3. Work Order
 
 A separate Work Order ("WO") may describe the Work, such as any plans,
 deliverables, milestones, specifications, work breakdown structures, etc.
+
+Note: We suggest using a Work Order for shorter-range planning and for
+shorter-scope projects and programmes.
 
 
 ### 3.4. Fees and Payments Agreement
@@ -373,8 +391,8 @@ other obligation of any kind, either express or implied, against or in the name
 of, or on behalf of, the other.
 
 Note: For example suppose a vendor wants a legal confidentiality agreement, and
-wants it to include the Consultee and Consultant. Each party must sign; one party
-cannot sign for the other party.
+wants it to include the Consultee and Consultant. All parties must sign. No party
+can sign for another party.
 
 
 ### 4.3. Access
@@ -501,33 +519,48 @@ respective owner, not the Consultee.
 
 ### 5.1. Agreement to resolve claims
 
-If any controversy or claim arises out of or relating to this contract, we will
-use the American Arbitration Association (AAA) standard procedures for mediation
-and non-binding arbitration.
+If any controversy or claim arises out of or relating to this Agreement , or the
+breach thereof, and cannot be settled through negotiation, then the Parties
+agree to try in good faith to settle the dispute first by non-binding mediation,
+and if that fails then second via non-binding arbitration, and if that fails
+then via litigation or some other type of dispute resolution process.
+
+Note: The purpose of this multi-step process is to save time and money for
+everyone involved, and to try multiple ways to find solutions, without needing
+to involve litigation. We're generally aware that some lawyers recommend binding
+arbitration, yet in our experience the binding causes more problems than it solves.
 
 
-### 5.2. Mediation
+### 5.2. Non-Binding Mediation
 
-If any controversy or claim arises out of or relating to this contract, or the
-breach thereof, and cannot be settled through negotiation, then the parties
-agree to try in good faith to settle the dispute by mediation administered by
-the American Arbitration Association under its mediation procedures before
-resorting to arbitration, litigation or some other dispute resolution procedure.
+If non-binding mediation is needed, then the Parties will use the American
+Arbitration Association (AAA) standard procedures for Non-Binding Mediation
+Rules.
+
+The Parties agree to do this before the Parties may initiate non-binding
+arbitration, binding-arbitration, litigation, or some other type of dispute
+resolution process.
 
 
 ### 5.3. Non-Binding Arbitration
 
-If any controversy or claim arises out of or relating to this contract, or the
-breach thereof, which cannot be settled by mediation as described above, then
-the parties agree to submit to non-binding arbitration administered by the
-American Arbitration Association under its Non-Binding Arbitration Rules before
-the parties may initiate binding arbitration, litigation, or some other type of
-dispute resolution process.
+If non-binding arbitration is necessary, then the Parties agree to submit to
+non-binding arbitration administered by the American Arbitration Association
+under its Non-Binding Arbitration Rules. 
+
+The Parties agree to do this before the Parties may initiate binding
+arbitration, litigation, or some other type of dispute resolution process.
 
 
 ### 5.4. Recovery
 
-In the event of litigation relating to this Agreement, the prevailing party
+In the event of non-binding mediation relating to this Agreement, the prevailing
+Party shall be entitled to recover its reasonable mediators’s fees and expenses.
+
+In the event of non-binding arbitration relating to this Agreement, the prevailing
+Party shall be entitled to recover its reasonable arbitrator’s fees and expenses.
+
+In the event of litigation relating to this Agreement, the prevailing Party
 shall be entitled to recover its reasonable attorney’s fees and expenses.
 
 
@@ -541,8 +574,8 @@ rewritten or interpreted to be enforceable in any respect, it will not be given
 effect, and the remainder of the Agreement will be enforced as if such provision
 was not included.
 
-Any failure by either party to enforce the other party’s strict performance of
-any provision of this Agreement will not constitute a waiver of its right to
+Any failure by a Party to enforce another Party’s strict performance of any
+provision of this Agreement will not constitute a waiver of its right to
 subsequently enforce such provision or any other provision of this Agreement.
 
 
@@ -559,7 +592,7 @@ hereof.
 
 ### 6.2. Modification
 
-This Agreement can only be modified by a written amendment signed by the party
+This Agreement can only be modified by a written amendment signed by the Party
 against whom enforcement of such modification is sought.
 
 
@@ -573,9 +606,9 @@ written change order.
 
 There are no warranties or guarantees, either express or implied.
 
-NO WARRANTIES ARE MADE BY EITHER PARTY UNDER THIS AGREEMENT WHATSOEVER.
+NO WARRANTIES ARE MADE BY ANY PARTIES UNDER THIS AGREEMENT WHATSOEVER.
 
-NO GUARANTEES ARE MADE BY EITHER PARTY UNDER THIS AGREEMENT WHATSOEVER.
+NO GUARANTEES ARE MADE BY ANY PARTIES UNDER THIS AGREEMENT WHATSOEVER.
 
 
 ### 6.5. Communications
@@ -583,8 +616,8 @@ NO GUARANTEES ARE MADE BY EITHER PARTY UNDER THIS AGREEMENT WHATSOEVER.
 Any notices or communications required or permitted to be given hereunder may be
 delivered by hand, deposited with a nationally recognized overnight carrier,
 electronic-mail, or mailed by certified mail, return receipt requested, postage
-prepaid, in each case, to the address of the other party first indicated above
-(or such other addressee as may be furnished by a party in accordance with this
+prepaid, in each case, to the address of the other Party first indicated above
+(or such other addressee as may be furnished by a Party in accordance with this
 paragraph). All such notices or communications shall be deemed to have been
 given and received (a) in the case of personal delivery or electronic-mail, on
 the date of such delivery, (b) in the case of delivery by a nationally
@@ -594,9 +627,9 @@ recognized overnight carrier, on the third business day following dispatch and
 
 ### 6.6. Transfer
 
-This Agreement is personal in nature, and neither party may directly or
+This Agreement is personal in nature, and no Party may directly or
 indirectly assign or transfer it by operation of law or otherwise without the
-prior written consent of the other party, whose consent will not be unreasonably
+prior written consent of all other Parties, whose consent will not be unreasonably
 withheld. All obligations contained in this Agreement shall extend to and be
 binding upon the parties to this Agreement and their respective successors,
 assigns and designees.
@@ -604,17 +637,17 @@ assigns and designees.
 
 ### 6.6. Termination
 
-Either party may terminate this Agreement by giving 30 days written notice to
-the other of such termination. In the event that Work is postponed or terminated
-at the request of Consultee, Consultant shall have the right to bill pro rata for
-work completed through the date of that request, while reserving all rights
-under this Agreement.
+Any Party may terminate this Agreement by giving 14 calendar days written notice
+to the other of such termination. In the event that Work is postponed or
+terminated at the request of Consultee, Consultant shall have the right to bill
+pro rata for work completed through the date of that request, while reserving
+all rights under this Agreement.
 
-If additional payment is due, this shall be payable within 10 days of Consultee's
-written notification to stop work. In the event of termination, Consultee shall
-also pay any expenses incurred by Consultant and Consultant shall own all rights to
-the Work. Consultee shall assume responsibility for all collection of legal fees
-necessitated by delay and/or default in payment.
+If additional payment is due, this shall be payable within 14 calendar days of
+Consultee's written notification to stop work. In the event of termination,
+Consultee shall also pay any expenses incurred by Consultant and Consultant
+shall own all rights to the Work. Consultee shall assume responsibility for all
+collection of legal fees necessitated by delay and/or default in payment.
 
 
 ### 6.7. Limitation of liability
@@ -720,5 +753,3 @@ Date:
 ```
 _____________________________________________________________________
 ```
-
-
