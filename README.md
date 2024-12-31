@@ -186,46 +186,10 @@ forum.
 
 Reference: https://wikipedia.org/wiki/Forum_non_conveniens
 
-Example: Suppose the Consultant and Consultee are both Delaware companies, and
-both have headquarters in San Francisco. If something goes wrong and must go to
-court, both parties may prefer to transfer the legal case from Delaware to San
-Francisco because it's a more-convenient location and has more-specific legal
-experts. 
-
-
-### 1.9. Priority
-
-If there is any ambiguity, inconsistency or conflict between the terms and
-conditions contained in any of the documents forming a part of this Agreement,
-then the Agreement shall be construed in the following order of priority, i.e. 1
-takes precedence over 2 and so on:
-
-1. These terms and conditions.
-
-2. The provisions of any Work Order.
-
-3. The provisions of any schedules.
-
-4. Any other documents incorporated or referenced herein.
-
-
-### 1.10. Work Order
-
-All work performed by Consultant shall be documented in a Work Order ("WO") signed
-by authorized representatives of both parties. 
-
-Each Work Order shall set forth, at a minimum, the details set forth on
-Attachment 1. 
-
-Consultant shall have the right to accept or decline any proposed Work Order. 
-
-All instructions, approvals, submissions, notices and any other communications
-or transactions that must be made to Consultee shall be made through the
-representative set forth on the Work Order. 
-
-Except, as expressly set forth in the Work Order or in this Agreement, Consultant
-shall furnish all labor, materials, equipment, supervision and insurance need to
-perform the work.
+Example: Suppose the parties are both Delaware companies, yet the key people
+involved all live in San Francisco. If something must go to court, both parties
+may prefer to transfer the legal case from Delaware to San Francisco, to make it
+more convenient for the key people involved.
 
 
 ## 2. Definitions
@@ -334,8 +298,12 @@ This document.
 A separate Statement of Work ("SOW") may describe the Work, such as any plans,
 deliverables, milestones, specifications, work breakdown structures, etc.
 
-Note: We suggest using a Statement of Work for longer-range planning and for
-larger-scope projects and programmes.
+Note: We suggest using a Statement of Work for longer-range planning, or
+larger-scope projects, or more-complex engagements.
+
+Note: In practice, a Statement of Work may to refer to a higher-level Consulting
+Agreement, General Consulting Agreement ("GSA"), Professional Services Agreement
+("PSA"), or Master Services Agreement ("MSA").
 
 
 ### 3.3. Work Order
@@ -343,8 +311,12 @@ larger-scope projects and programmes.
 A separate Work Order ("WO") may describe the Work, such as any plans,
 deliverables, milestones, specifications, work breakdown structures, etc.
 
-Note: We suggest using a Work Order for shorter-range planning and for
-shorter-scope projects and programmes.
+Note: We suggest using a Work Order for shorter-range planning, or 
+smaller-scope projects, or less-complex engagements.
+
+Note: In practice, a Work Order may refer to a higher-level Consulting
+Agreement, General Consulting Agreement ("GSA"), Professional Services Agreement
+("PSA"), Master Services Agreement ("MSA").
 
 
 ### 3.4. Fees and Payments Agreement
@@ -376,10 +348,57 @@ consultants, or contractors. The enumerated exceptions are for sale of a
 business, partnership dissolution, and disassociation of a partner.
 
 
-## 4. Content
+### 4. Work
 
 
-### 4.1. Independence
+### 4.1. Priority
+
+If there is any ambiguity, inconsistency or conflict between the terms and
+conditions contained in any of the documents forming a part of this Agreement,
+then the Agreement shall be construed in the following order of priority, i.e. 1
+takes precedence over 2 and so on:
+
+1. These terms and conditions.
+
+2. The provisions of any Statement of Work.
+
+3. The provisions of any Work Order.
+
+4. The provisions of any schedules.
+
+5. Any other documents incorporated or referenced herein.
+
+
+### 4.2. Work Order
+
+All work performed by Consultant shall be documented in a Work Order ("WO"), and
+signed by authorized representatives of both parties. 
+
+
+### 4.3. Work Order Acceptance
+
+Consultant shall have the right to accept or decline any proposed Work Order. 
+
+
+### 4.4. Work Order Communications
+
+All instructions, approvals, submissions, notices and any other communications
+or transactions that must be made to Consultee shall be made through the
+representative set forth on the Work Order. 
+
+
+### 4.5. Work Order Furnishing
+
+Except, as expressly set forth in the Work Order, or Statement of Work, or in
+this Agreement, Consultant shall furnish all labor, materials, equipment,
+supervision and insurance need to perform the work.
+
+
+
+## 5. Relationship
+
+
+### 5.1. Independence
 
 The Consultee and Consultant are independent parties. 
 
@@ -387,7 +406,7 @@ There is no dependency, such as employer, principal of, partner of, or joint
 venture.
 
 
-### 4.2. Independent Contractor
+### 5.2. Independent Contractor
 
 The Consultant is an independent contractor, and not an employee of Consultee.
 
@@ -407,7 +426,7 @@ employee life insurance, employee disability insurance, employee retirement
 plans, or employee welfare plans.
 
 
-### 4.2. Authority
+### 5.2. Authority
 
 The Consultee and Consultant have no authority to make any promise, guarantee,
 warranty, or representation, or to assume, create, or incur any liability or
@@ -419,19 +438,19 @@ wants it to include the Consultee and Consultant. All parties must sign. No part
 can sign for another party.
 
 
-### 4.3. Access
+### 5.3. Access
 
 Consultee authorizes Consultant to access the Work's related aspects, such as any
 content, technology, etc.
 
 
-### 4.4. Assignments
+### 5.4. Assignment
 
 Unless otherwise specified in a Work Order, Consultant reserves the right to
 assign subcontractors to the Work to ensure quality and on-time completion.
 
 
-### 4.5. Non-provider changes
+### 5.5. Non-provider changes
 
 Consultant is not responsible for any changes made by anyone other than consultant
 or consultant's authorized agent(s).
@@ -446,7 +465,7 @@ want to get help from an expert or vendor, and want the resulting changes to
 become part of the Work.
 
 
-### 4.6. Reservation of rights
+### 5.6. Reservation of rights
 
 All rights not expressly granted hereunder are reserved to Consultant.
 
@@ -457,7 +476,7 @@ Moral rights, as described in the international Berne Convention for the
 Protection of Literary and Artistic Works, are reserved to Consultant.
 
 
-### 4.7. Permissions and releases
+### 5.7. Permissions and releases
 
 Consultee agrees to indemnify and hold harmless Consultant against any and all
 claims, costs, and expenses, including attorney's fees, due to materials
@@ -466,17 +485,17 @@ or previous release was requested or uses which exceed the uses allowed pursuant
 to a permission or release.
 
 
-### 4.8. Referenceability
+### 5.8. Referenceability
 
 Consultee agrees to be generally available as a reference for Consultant.
 
 
-### 4.9. Displayability
+### 5.9. Displayability
 
 Consultee agrees Consultant may display non-confidential results of Work in Consultant's portfolio.
 
 
-### 4.10. Copyright and license for the Work
+### 5.10. Copyright and license for the Work
 
 Copyright for the Work is in Consultant's name unless otherwise specified.
 
@@ -494,7 +513,7 @@ redistribute, resell, or relicense the Work, or the Background Technology, or
 the Independent Technology.
 
 
-### 4.11 Copyright and license for Technology
+### 5.11. Copyright and license for Technology
 
 While performing the Work, Consultant may from time to time work with Background
 Technologies and/or Independent Technologies.
@@ -542,10 +561,10 @@ source code, in which case the bug fix belongs to the Background Technology
 respective owner, not the Consultee.
 
 
-## 5. Resolution
+## 6. Resolution
 
 
-### 5.1. Agreement to resolve claims
+### 6.1. Agreement to resolve claims
 
 If any controversy or claim arises out of or relating to this Agreement , or the
 breach thereof, and cannot be settled through negotiation, then the Parties
@@ -559,7 +578,7 @@ to involve litigation. We're generally aware that some lawyers recommend binding
 arbitration, yet in our experience the binding causes more problems than it solves.
 
 
-### 5.2. Non-Binding Mediation
+### 6.2. Non-Binding Mediation
 
 If non-binding mediation is needed, then the Parties will use the American
 Arbitration Association ("AAA") standard procedures for Non-Binding Mediation
@@ -570,7 +589,7 @@ arbitration, binding-arbitration, litigation, or some other type of dispute
 resolution process.
 
 
-### 5.3. Non-Binding Arbitration
+### 6.3. Non-Binding Arbitration
 
 If non-binding arbitration is necessary, then the Parties agree to submit to
 non-binding arbitration administered by the American Arbitration Association
@@ -580,7 +599,7 @@ The Parties agree to do this before the Parties may initiate binding
 arbitration, litigation, or some other type of dispute resolution process.
 
 
-### 5.4. Recovery
+### 6.4. Recovery
 
 In the event of non-binding mediation relating to this Agreement, the prevailing
 Party shall be entitled to recover its reasonable mediators’s fees and expenses.
@@ -592,7 +611,7 @@ In the event of litigation relating to this Agreement, the prevailing Party
 shall be entitled to recover its reasonable attorney’s fees and expenses.
 
 
-### 5.5. Integrity
+### 6.5. Integrity
 
 If any provision of this Agreement, or restriction of this Agreement, is found
 by a court of competent jurisdiction to be unlawful, or unenforceable, or void,
@@ -607,10 +626,10 @@ provision of this Agreement will not constitute a waiver of its right to
 subsequently enforce such provision or any other provision of this Agreement.
 
 
-## 6. Limits
+## 7. Limits
 
 
-### 6.1. Sole agreement
+### 7.1. Sole agreement
 
 This Agreement constitutes the entire understanding between the parties and
 supersedes any and all prior or contemporaneous understandings and agreements,
@@ -618,19 +637,19 @@ whether oral or written, between the parties, with respect to the subject matter
 hereof. 
 
 
-### 6.2. Modification
+### 7.2. Modification
 
 This Agreement can only be modified by a written amendment signed by the Party
 against whom enforcement of such modification is sought.
 
 
-### 6.3. Change order
+### 7.3. Change order
 
 Any agreements not specified in this contract must be mutually authorized by a
 written change order.
 
 
-### 6.4. Warranties and guarantees
+### 7.4. Warranties and guarantees
 
 There are no warranties or guarantees, either express or implied.
 
@@ -639,7 +658,7 @@ NO WARRANTIES ARE MADE BY ANY PARTIES UNDER THIS AGREEMENT WHATSOEVER.
 NO GUARANTEES ARE MADE BY ANY PARTIES UNDER THIS AGREEMENT WHATSOEVER.
 
 
-### 6.5. Communications
+### 7.5. Communications
 
 Any notices or communications required or permitted to be given hereunder may be
 delivered by hand, deposited with a nationally recognized overnight carrier,
@@ -653,7 +672,7 @@ recognized overnight carrier, on the third business day following dispatch and
 (c) in the case of mailing, on the seventh business day following such mailing.
 
 
-### 6.6. Transfer
+### 7.6. Transfer
 
 This Agreement is personal in nature, and no Party may directly or
 indirectly assign or transfer it by operation of law or otherwise without the
@@ -663,7 +682,7 @@ binding upon the parties to this Agreement and their respective successors,
 assigns and designees.
 
 
-### 6.6. Termination
+### 7.7. Termination
 
 Any Party may terminate this Agreement by giving 14 calendar days written notice
 to the other of such termination. In the event that Work is postponed or
@@ -678,7 +697,7 @@ shall own all rights to the Work. Consultee shall assume responsibility for all
 collection of legal fees necessitated by delay and/or default in payment.
 
 
-### 6.7. Limitation of liability
+### 7.8. Limitation of liability
 
 Consultant's total aggregate liability for damages under this agreement shall be
 limited to one hundred percent (100%) of the amount of fees received for
@@ -690,7 +709,7 @@ one hundred percent (100%) of the amount of fees received for services by
 consultant under this agreement for the project at issue.
 
 
-### 6.7. Laws affecting electronic commerce
+### 7.9. Laws affecting electronic commerce
 
 From time to time governments enact laws and levy taxes and tariffs affecting
 Internet electronic commerce. Consultee agrees that Consultee is solely responsible
@@ -700,7 +719,10 @@ penalty, tax, or tariff arising from Consultee's exercise of Internet electronic
 commerce.
 
 
-### 6.8. Mutual Protection
+## 8. Mutual Alignment
+
+
+### 8.1. Mutual Protection
 
 IN NO EVENT SHALL ANY PARTY, THEIR PARENT CORPORATIONS AND THEIR AFFILIATES,
 AGENTS, OR EMPLOYEES BE LIABLE FOR ANY INDIRECT, INCIDENTAL, CONSEQUENTIAL,
@@ -713,7 +735,7 @@ CONCURRENT OR ACTIVE OR PASSIVE NEGLIGENCE, STRICT LIABILITY, OR OTHER LEGAL
 FAULT OF ANY PARTY.
 
 
-### 6.9. Mutual Release
+### 8.2. Mutual Release
 
 ALL PARTIES DO RELEASE, INDEMNIFY, AND HOLD HARMLESS ALL PARTIES, THEIR PARENT
 CORPORATIONS AND THEIR AFFILIATES, AGENTS, AND EMPLOYEES, FROM AND AGAINST ANY
@@ -727,13 +749,13 @@ LIABILITY OR OTHER LEGAL FAULT OF ANY PARTY. THIS PARAGRAPH SHALL SURVIVE
 EXPIRATION OR TERMINATION OF THIS AGREEMENT.
 
 
-## 7. Signatures
+## 9. Signatures
 
 IN WITNESS WHEREOF, the Parties hereto have executed this Agreement as of the
 date first above written.
 
 
-### 7.1. Consultant
+### 9.1. Consultant
 
 On behalf of Consultant:
 
@@ -758,7 +780,7 @@ _____________________________________________________________________
 ```
 
 
-### 7.2. Consultee
+### 9.2. Consultee
 
 On behalf of Consultee:
 
