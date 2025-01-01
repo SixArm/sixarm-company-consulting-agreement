@@ -10,7 +10,7 @@ Note: The purpose of this document is to have a free open source template that i
 
 ### 1.1. Parties
 
-This Agreement is made by and between the following:
+This Agreement is made by and between the following...
 
 ### 1.2. Consultant
 
@@ -112,7 +112,7 @@ Hereafter referred to as the "Parties" collectively.
 
 ### 1.5. Date
 
-This agreement is dated and in effect as of:
+This Agreement is dated and in effect as of:
 
 Date:
 
@@ -232,9 +232,9 @@ that could lead to conflicts of interest.
 Reference: https://wikipedia.org/wiki/ethics_wall
 
 Example: Consultant and Consultee may want to negotiate an ethics wall that
-separates the Consultant-Consultee agreements, projects, and information from
-the Consultant's involvement with any other organizations, projects, and
-confidential information. We suggest describing any ethics walls in a separate Confidentiality Agreement ("CA").
+separates the Consultant-Consultee relationship from any other relationships,
+such as from any other Consultant relationships. We suggest describing any
+ethics wall within a separate Confidentiality Agreement ("CA").
 
 Note: "Screen", or the verb "to screen", is the preferred term of the American
 Bar Association Model Rules of Professional Conduct. The ABA Model Rules define
