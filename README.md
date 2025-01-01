@@ -175,20 +175,26 @@ acknowledges that another forum or court where the case might have been brought
 is a more appropriate venue for a legal case, and transfers the case to such a
 forum.
 
-Reference: https://wikipedia.org/wiki/Forum_non_conveniens
+See: https://wikipedia.org/wiki/Forum_non_conveniens
 
 Example: Suppose the parties are both Delaware companies, yet the key people
 involved all live in San Francisco. If something must go to court, both parties
 may prefer to transfer the legal case from Delaware to San Francisco, to make it
 more convenient for the key people involved.
 
+### Headings
+
+The headings in this Agreement are the bigger bolder titles. They are for
+reference purposes only. They shall not be used or relied upon in the
+interpretation of this Agreement.
+
+### Adjuncts
+
+The adjuncts in this Agreement are the paragraphs that start with "See:",
+"Note:", and "Example:". They are for reference purposes only. They
+shall not be used or relied upon in the interpretation of this Agreement.
+
 ## 2. Definitions
-
-### Reference
-
-The expressions "Reference:", "Note:", "Example:", and the headings in this
-Agreement, are for reference purposes only, and shall not be used or relied upon
-in the interpretation of this Agreement.
 
 ### Technology
 
@@ -229,7 +235,7 @@ The expression "Ethics Wall" shall mean an information barrier protocol within
 an organization designed to prevent exchange of information or communication
 that could lead to conflicts of interest. 
 
-Reference: https://wikipedia.org/wiki/ethics_wall
+See: https://wikipedia.org/wiki/ethics_wall
 
 Example: Consultant and Consultee may want to negotiate an ethics wall that
 separates the Consultant-Consultee relationship from any other relationships,
