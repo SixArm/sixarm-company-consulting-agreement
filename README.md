@@ -675,7 +675,7 @@ regulations or requirements.
 In the United States, law enforcement agencies include but are not limited to
 police, the U.S. Department of Justice ("DOJ"), the U.S. Federal Bureau of
 Investigation ("FBI"), the U.S. Securities and Exchange Commission ("SEC"), the
-U.S. Congress, and any U.S. Government Agency Inspector General.
+U.S. Congress, and any U.S. Government Inspector General.
 
 When doing law enforcement reporting, a Party does not need the prior
 authorization of any other Party, and a Party is not required to notify another
