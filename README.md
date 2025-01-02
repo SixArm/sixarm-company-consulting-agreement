@@ -465,7 +465,7 @@ Consultee agrees to be generally available as a reference for Consultant.
 
 Consultee agrees Consultant may display non-confidential results of Work in Consultant's portfolio.
 
-###. Copyright and license for the Work
+### Copyright and license for the Work
 
 Copyright for the Work is in Consultant's name unless otherwise specified.
 
