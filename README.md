@@ -661,6 +661,26 @@ the date of such delivery, (b) in the case of delivery by a nationally
 recognized overnight carrier, on the third business day following dispatch and
 (c) in the case of mailing, on the seventh business day following such mailing.
 
+### Law Enforcement Reporting
+
+Nothing in this Agreement is intended to interfere with, or restrain, or
+prohibit law enforcement reporting. 
+
+This includes but is not limited to the purpose of reporting a suspected
+violation of the law to authorized law enforcement officers, or for the purpose
+of a legally-mandated sealed filing in court or other authorized law enforcement
+proceeding, or for the purpose of whistleblower provisions of government laws or
+regulations or requirements.
+
+In the United States, law enforcement agencies include but are not limited to
+police, the U.S. Department of Justice ("DOJ"), the U.S. Federal Bureau of
+Investigation ("FBI"), the U.S. Securities and Exchange Commission ("SEC"), the
+U.S. Congress, and any U.S. Government Agency Inspector General.
+
+When doing law enforcement reporting, a Party does not need the prior
+authorization of any other Party, and a Party is not required to notify another
+Party.
+
 ### Transfer
 
 This Agreement is personal in nature, and no Party may directly or indirectly
