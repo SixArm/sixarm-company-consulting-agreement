@@ -8,8 +8,6 @@ Note: The purpose of this document is to have a free open source template that i
 
 ## 1. Introduction
 
-### Parties
-
 This Agreement is made by and between the following...
 
 ### Consultant
@@ -182,19 +180,19 @@ involved all live in San Francisco. If something must go to court, both parties
 may prefer to transfer the legal case from Delaware to San Francisco, to make it
 more convenient for the key people involved.
 
+## 2. Definitions
+
 ### Headings
 
-The headings in this Agreement are the bigger bolder titles. They are for
-reference purposes only. They shall not be used or relied upon in the
-interpretation of this Agreement.
+The expresion "headings" in this Agreement shall mean the bigger bolder titles.
+The headings are for reference purposes only. They shall not be used or relied upon in
+the interpretation of this Agreement.
 
 ### Adjuncts
 
-The adjuncts in this Agreement are the paragraphs that start with "See:",
-"Note:", and "Example:". They are for reference purposes only. They
-shall not be used or relied upon in the interpretation of this Agreement.
-
-## 2. Definitions
+The "adjuncts" in this Agreement shall mean the paragraphs that start with
+"See:", "Note:", and "Example:". The adjuncts are for reference purposes only.
+They shall not be used or relied upon in the interpretation of this Agreement.
 
 ### Technology
 
@@ -251,6 +249,16 @@ is obligated to protect under these Rules or other law", and suitable "screening
 procedures" have been approved where paralegals have moved from one law firm to
 another and have worked on cases for their former employer which may conflict
 with the interests of their current employer and the clients they represent.
+
+### Prior Inventions
+
+The expression "Prior Inventions" means all  ideas, inventions, or works that an
+individual or entity created before entering into the Agreement.
+
+Note: This expression is often used in employment or intellectual property
+agreements. The purpose of acknowledging prior inventions in a legal contract is
+to ensure that a party does not claim ownership of another party's prior
+invention, either intentionally or accidentally.
 
 ### Include Without Limitation
 
